@@ -51,6 +51,7 @@ The challenge is further complicated by the fact that output quality is not dire
   + What do we gain, what do we sacrifice if we push for higher quality?
   + Which levers are most effective to control?
 → The goal is not certainty, but **clarity for decision-making**
+![  esult_framework](https://github.com/CallmeNavin/Real-Project-2_Manufacturing-Premium-Products-Optimization/blob/main/result.png)
 
 **5. Engineer Diary**
 
