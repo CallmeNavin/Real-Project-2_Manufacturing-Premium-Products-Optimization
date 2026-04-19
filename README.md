@@ -92,4 +92,5 @@ _5.3. The most important insight_
   + Accepting data limitations
   + Framing **trade-off** instead of forcing conclusions
   + Translating messy data into operational guidance
+
 **Still: The biggest learning was simple: Real data work is not about clean datasets. It is about staying useful when data & reality is messy**
