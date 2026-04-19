@@ -8,7 +8,8 @@ In an industrial production system, output quality (represented by protein conte
 - Product quality
 - Production capacity
 - Machine constraints
-→ → This naturally creates trade-offs between stability and quality performance, highlighting the need to re-evaluate existing operating preferences based on data
+
+→ This naturally creates trade-offs between stability and quality performance, highlighting the need to re-evaluate existing operating preferences based on data
 The challenge is further complicated by the fact that output quality is not directly controlled by a single parameter, but emerges from a combination of upstream conditions and process interactions.
 - **Business question:** How can we define practical operating guidance to improve output quality while respecting real production constraints?
 
